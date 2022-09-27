@@ -81,7 +81,7 @@ input {
     }
 }
 
-@media screen and (max-width:350px) {
+@media screen and (max-width:400px) {
     .box1 {
         width: 90vw;
     }
